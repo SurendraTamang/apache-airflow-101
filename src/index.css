@@ -28,3 +28,12 @@
     @apply font-bold tracking-tight;
   }
 }
+
+.logo {
+  background-image: url('https://airflow.apache.org/docs/apache-airflow/1.10.15/_images/pin_medium.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 300px;  /* Adjust width as needed */
+  height: 300px; /* Adjust height as needed */
+}
